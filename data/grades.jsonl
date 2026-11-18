@@ -1,0 +1,1140 @@
+{"id": "p_40004", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40004", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40004", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40004", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40004", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_40004", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_40010", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40010", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_40010", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_40010", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_40010", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_40010", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_40010", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40010", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_40010", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_40010", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40010", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_40010", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_40010", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40010", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_40010", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_40010", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40010", "assistant": "Ask Maps", "ask": 2, "grade": "wrong"}
+{"id": "p_40010", "assistant": "Ask Maps", "ask": 3, "grade": "wrong"}
+{"id": "p_40036", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40036", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40036", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40036", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40036", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_40036", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_40038", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40038", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40038", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_40038", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_40038", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40038", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_40039", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40039", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40039", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_40039", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40039", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40039", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40044", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40044", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_40044", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_40044", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_40044", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_40044", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40046", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_40046", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_40046", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40046", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_40046", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_40046", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_40049", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40049", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_40049", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_40049", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40049", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_40049", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40050", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40050", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40050", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40050", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40050", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_40050", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40051", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_40051", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_40051", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40051", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_40051", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_40051", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40089", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_40089", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_40089", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_40089", "assistant": "Muse", "ask": 2, "grade": "partly_right"}
+{"id": "p_40089", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_40089", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40089", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_40089", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_40089", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_40089", "assistant": "Instinct", "ask": 2, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Instinct", "ask": 3, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Grok Bot", "ask": 2, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Grok Bot", "ask": 3, "grade": "partly_right"}
+{"id": "p_40089", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Ask Maps", "ask": 2, "grade": "wrong"}
+{"id": "p_40089", "assistant": "Ask Maps", "ask": 3, "grade": "wrong"}
+{"id": "p_40092", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40092", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_40092", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40092", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40092", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40092", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40094", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40094", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_40094", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_40094", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_40094", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40094", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_40104", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_40104", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_40104", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_40104", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_40104", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_40104", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70113", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70113", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70113", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70113", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70113", "assistant": "Claude Duet", "ask": 3, "grade": "wrong"}
+{"id": "p_70113", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Instinct", "ask": 2, "grade": "small_error"}
+{"id": "p_70113", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70113", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_70113", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70113", "assistant": "Grok Bot", "ask": 3, "grade": "wrong"}
+{"id": "p_70113", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70113", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70113", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70114", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70114", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70114", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_70114", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70114", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70114", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70115", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_70115", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70115", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_70115", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_70115", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_70115", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_70116", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70116", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_70116", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70116", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70116", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_70116", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_70120", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70120", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_70120", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70120", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_70120", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_70120", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70208", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70208", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70208", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70208", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_70208", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70208", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_70210", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70210", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_70210", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70210", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70210", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_70210", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70404", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70404", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70404", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70404", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70404", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70404", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70404", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70404", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70404", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70404", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_70404", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70404", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70404", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_70404", "assistant": "Grok Bot", "ask": 2, "grade": "partly_right"}
+{"id": "p_70404", "assistant": "Grok Bot", "ask": 3, "grade": "partly_right"}
+{"id": "p_70404", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_70404", "assistant": "Ask Maps", "ask": 2, "grade": "small_error"}
+{"id": "p_70404", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70405", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70405", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70405", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70405", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70405", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70405", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70405", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Instinct", "ask": 2, "grade": "wrong"}
+{"id": "p_70405", "assistant": "Instinct", "ask": 3, "grade": "wrong"}
+{"id": "p_70405", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70405", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70405", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70405", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70405", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70408", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70408", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_70408", "assistant": "Muse", "ask": 2, "grade": "partly_right"}
+{"id": "p_70408", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70408", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70408", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70408", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70408", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70408", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70408", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70408", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70408", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70408", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70410", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70410", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70410", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70410", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Instinct", "ask": 3, "grade": "small_error"}
+{"id": "p_70410", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70410", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70410", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70410", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70419", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70419", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70419", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70419", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70419", "assistant": "Muse", "ask": 2, "grade": "partly_right"}
+{"id": "p_70419", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70419", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70419", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70419", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70419", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_70419", "assistant": "Instinct", "ask": 2, "grade": "small_error"}
+{"id": "p_70419", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70419", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70419", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70419", "assistant": "Grok Bot", "ask": 3, "grade": "small_error"}
+{"id": "p_70419", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70419", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70419", "assistant": "Ask Maps", "ask": 3, "grade": "wrong"}
+{"id": "p_71313", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71313", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71313", "assistant": "Claude Duet", "ask": 1, "grade": "couldnt_confirm"}
+{"id": "p_71313", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71313", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71313", "assistant": "Ask Maps", "ask": 1, "grade": "couldnt_confirm"}
+{"id": "p_70510", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70510", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70510", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70510", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70510", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70510", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70513", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70513", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70513", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70513", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70513", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70513", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_70513", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70513", "assistant": "Instinct", "ask": 3, "grade": "wrong"}
+{"id": "p_70513", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70513", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70513", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70513", "assistant": "Ask Maps", "ask": 2, "grade": "wrong"}
+{"id": "p_70513", "assistant": "Ask Maps", "ask": 3, "grade": "wrong"}
+{"id": "p_71325", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71325", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71325", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71325", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71325", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71325", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70601", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_70601", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70601", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70601", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70601", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70601", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70601", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70601", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70603", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_70603", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70603", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70603", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_70603", "assistant": "Muse", "ask": 2, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Muse", "ask": 3, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Claude Duet", "ask": 2, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Claude Duet", "ask": 3, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Instinct", "ask": 2, "grade": "partly_right"}
+{"id": "p_70603", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70603", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_70603", "assistant": "Grok Bot", "ask": 2, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Grok Bot", "ask": 3, "grade": "partly_right"}
+{"id": "p_70603", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Ask Maps", "ask": 2, "grade": "wrong"}
+{"id": "p_70603", "assistant": "Ask Maps", "ask": 3, "grade": "wrong"}
+{"id": "p_70605", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70605", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70605", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70605", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70605", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70605", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70606", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_70610", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70610", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70610", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70610", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70610", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70610", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70610", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_70610", "assistant": "Claude Duet", "ask": 2, "grade": "wrong"}
+{"id": "p_70610", "assistant": "Claude Duet", "ask": 3, "grade": "small_error"}
+{"id": "p_70610", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70610", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70610", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70610", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_70610", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70610", "assistant": "Grok Bot", "ask": 3, "grade": "small_error"}
+{"id": "p_70610", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70610", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70610", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70613", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70613", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70613", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70613", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_70613", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_70613", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_70614", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70614", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70614", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70614", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70614", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70614", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70616", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70616", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70616", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70616", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70616", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70616", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_70617", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70617", "assistant": "Dots", "ask": 2, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70617", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70617", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70617", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70617", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Claude Duet", "ask": 2, "grade": "partly_right"}
+{"id": "p_70617", "assistant": "Claude Duet", "ask": 3, "grade": "partly_right"}
+{"id": "p_70617", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_70617", "assistant": "Instinct", "ask": 2, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70617", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70617", "assistant": "Grok Bot", "ask": 2, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Grok Bot", "ask": 3, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_70617", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70617", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70618", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70618", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70618", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70618", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70618", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70618", "assistant": "Claude Duet", "ask": 3, "grade": "small_error"}
+{"id": "p_70618", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Instinct", "ask": 2, "grade": "small_error"}
+{"id": "p_70618", "assistant": "Instinct", "ask": 3, "grade": "partly_right"}
+{"id": "p_70618", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70618", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70618", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70618", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70618", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70702", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70702", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70702", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70702", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70702", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70702", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70702", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70702", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Instinct", "ask": 3, "grade": "small_error"}
+{"id": "p_70702", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_70702", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70702", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70702", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70702", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70715", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70715", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70715", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70715", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70715", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Claude Duet", "ask": 2, "grade": "wrong"}
+{"id": "p_70715", "assistant": "Claude Duet", "ask": 3, "grade": "small_error"}
+{"id": "p_70715", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Instinct", "ask": 2, "grade": "partly_right"}
+{"id": "p_70715", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70715", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70715", "assistant": "Grok Bot", "ask": 3, "grade": "partly_right"}
+{"id": "p_70715", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70715", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70715", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_70716", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70716", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70716", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70716", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70716", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70716", "assistant": "Muse", "ask": 3, "grade": "wrong"}
+{"id": "p_70716", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70716", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70716", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70716", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70716", "assistant": "Instinct", "ask": 2, "grade": "partly_right"}
+{"id": "p_70716", "assistant": "Instinct", "ask": 3, "grade": "wrong"}
+{"id": "p_70716", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_70716", "assistant": "Grok Bot", "ask": 2, "grade": "small_error"}
+{"id": "p_70716", "assistant": "Grok Bot", "ask": 3, "grade": "wrong"}
+{"id": "p_70716", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_70716", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70716", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_71317", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71317", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71317", "assistant": "Claude Duet", "ask": 1, "grade": "couldnt_confirm"}
+{"id": "p_71317", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71317", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71317", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70719", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70719", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70719", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70719", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_70719", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70719", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_70801", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_70801", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_70801", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_70801", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_70801", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_70801", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Instinct", "ask": 2, "grade": "small_error"}
+{"id": "p_70801", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_70801", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_70801", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_70801", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_70801", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_70801", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_71203", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Muse", "ask": 2, "grade": "right"}
+{"id": "p_71203", "assistant": "Muse", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Claude Duet", "ask": 2, "grade": "right"}
+{"id": "p_71203", "assistant": "Claude Duet", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Instinct", "ask": 2, "grade": "right"}
+{"id": "p_71203", "assistant": "Instinct", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Grok Bot", "ask": 2, "grade": "wrong"}
+{"id": "p_71203", "assistant": "Grok Bot", "ask": 3, "grade": "right"}
+{"id": "p_71203", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71203", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_71203", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_71213", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71213", "assistant": "Dots", "ask": 2, "grade": "right"}
+{"id": "p_71213", "assistant": "Dots", "ask": 3, "grade": "right"}
+{"id": "p_71213", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_71213", "assistant": "Muse", "ask": 2, "grade": "partly_right"}
+{"id": "p_71213", "assistant": "Muse", "ask": 3, "grade": "partly_right"}
+{"id": "p_71213", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71213", "assistant": "Claude Duet", "ask": 2, "grade": "partly_right"}
+{"id": "p_71213", "assistant": "Claude Duet", "ask": 3, "grade": "partly_right"}
+{"id": "p_71213", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71213", "assistant": "Instinct", "ask": 2, "grade": "wrong"}
+{"id": "p_71213", "assistant": "Instinct", "ask": 3, "grade": "wrong"}
+{"id": "p_71213", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71213", "assistant": "Grok Bot", "ask": 2, "grade": "right"}
+{"id": "p_71213", "assistant": "Grok Bot", "ask": 3, "grade": "wrong"}
+{"id": "p_71213", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71213", "assistant": "Ask Maps", "ask": 2, "grade": "right"}
+{"id": "p_71213", "assistant": "Ask Maps", "ask": 3, "grade": "right"}
+{"id": "p_71214", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71214", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71214", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71214", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71214", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71214", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71215", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71001", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71001", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71001", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71001", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71001", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71001", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71301", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71301", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71301", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71301", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_71301", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71301", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71003", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71003", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71003", "assistant": "Claude Duet", "ask": 1, "grade": "no_answer"}
+{"id": "p_71003", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71003", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71003", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71307", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71307", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71307", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71307", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71307", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71307", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71005", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71005", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71005", "assistant": "Claude Duet", "ask": 1, "grade": "couldnt_confirm"}
+{"id": "p_71005", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71005", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71005", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71318", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71318", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71318", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71318", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71318", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71318", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71305", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71008", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71008", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71008", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71008", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71008", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71008", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71312", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71312", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71312", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71312", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71312", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71312", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71010", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71010", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_71010", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71010", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71010", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71010", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71011", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71012", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71012", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_71012", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71012", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71012", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71012", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71319", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71319", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71319", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71319", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71319", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71319", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71014", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71014", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71014", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71014", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71014", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71014", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71015", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71016", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71017", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71017", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_71017", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71017", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71017", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71017", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71018", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71018", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71018", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71018", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71018", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71018", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71019", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71019", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71019", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71019", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71019", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71019", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71021", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71021", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71021", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71021", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71021", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71021", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71023", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71024", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71024", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71024", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71024", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_71024", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71024", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71025", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71026", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71028", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71028", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71028", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71028", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71028", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71028", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71029", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71029", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71029", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71029", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71029", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71029", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71030", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71030", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71030", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71030", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71030", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71030", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71320", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71032", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71033", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71034", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71035", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71035", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71035", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71035", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71035", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71035", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71036", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71036", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71036", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71036", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71036", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71036", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71038", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71038", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71038", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71038", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71038", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71038", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71040", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71043", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71044", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71044", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71044", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_71044", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71044", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71044", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71045", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_71045", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_71045", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71045", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71045", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71045", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71326", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71047", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71047", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71047", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71047", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71047", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71047", "assistant": "Ask Maps", "ask": 1, "grade": "no_answer"}
+{"id": "p_71049", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71049", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71049", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71049", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71049", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71049", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71302", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71201", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71202", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71204", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71204", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71204", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71204", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71204", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71204", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71205", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71205", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_71205", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71205", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71205", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71205", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71207", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71207", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71207", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71207", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71207", "assistant": "Grok Bot", "ask": 1, "grade": "no_answer"}
+{"id": "p_71207", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71208", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71208", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71208", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71208", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71208", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71208", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71210", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_71210", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71210", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71210", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71210", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71210", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71211", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71211", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71211", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71211", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71211", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71211", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71321", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71324", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71324", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71324", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71324", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71324", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71324", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71104", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71322", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71107", "assistant": "Ask Maps", "ask": 1, "grade": "no_answer"}
+{"id": "p_71108", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71108", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71108", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71108", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71108", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71108", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71323", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71111", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71111", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71111", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71111", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71111", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71111", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71329", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71329", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71329", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71329", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71329", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71329", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71113", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71113", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_71113", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71113", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71113", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71113", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71114", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71114", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71114", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71114", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71114", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71114", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71115", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71116", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71116", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71116", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71116", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71116", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71116", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71330", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71330", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71330", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_71330", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71330", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71330", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71118", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71118", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71118", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71118", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71118", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71118", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71119", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71119", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71119", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71119", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71119", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71119", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71120", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71120", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71120", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71120", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71120", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71120", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71121", "assistant": "Dots", "ask": 1, "grade": "partly_right"}
+{"id": "p_71121", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71121", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71121", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71121", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71121", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71122", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71122", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71122", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71122", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71122", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71122", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71123", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71123", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71123", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71123", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71123", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71123", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71124", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71124", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71124", "assistant": "Claude Duet", "ask": 1, "grade": "wrong"}
+{"id": "p_71124", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71124", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71124", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71125", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71125", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71125", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71125", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71125", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71125", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71314", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71314", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71314", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71314", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71314", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71314", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71315", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_71315", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71315", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71315", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71315", "assistant": "Grok Bot", "ask": 1, "grade": "wrong"}
+{"id": "p_71315", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71316", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71316", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71316", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71316", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71316", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71316", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71303", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71303", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71303", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71303", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71303", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71303", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71309", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71131", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71304", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71310", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71134", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71308", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71308", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71308", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71308", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71308", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71308", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71136", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71136", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71136", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71136", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71136", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71136", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71137", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71137", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71137", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71137", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71137", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71137", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71138", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71138", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71138", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71138", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71138", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71138", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71311", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71311", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71311", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71311", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_71311", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71311", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71306", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71306", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71306", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71306", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71306", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71306", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71141", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71141", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71141", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71141", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71141", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71141", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71328", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71328", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71328", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71328", "assistant": "Instinct", "ask": 1, "grade": "partly_right"}
+{"id": "p_71328", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71328", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
+{"id": "p_71143", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71143", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71143", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71143", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71143", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71143", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71144", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71144", "assistant": "Muse", "ask": 1, "grade": "wrong"}
+{"id": "p_71144", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71144", "assistant": "Instinct", "ask": 1, "grade": "wrong"}
+{"id": "p_71144", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71144", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71327", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71327", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71327", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71327", "assistant": "Instinct", "ask": 1, "grade": "small_error"}
+{"id": "p_71327", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71327", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71146", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71147", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71147", "assistant": "Muse", "ask": 1, "grade": "partly_right"}
+{"id": "p_71147", "assistant": "Claude Duet", "ask": 1, "grade": "partly_right"}
+{"id": "p_71147", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71147", "assistant": "Grok Bot", "ask": 1, "grade": "partly_right"}
+{"id": "p_71147", "assistant": "Ask Maps", "ask": 1, "grade": "partly_right"}
+{"id": "p_71148", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71148", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71148", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71148", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71148", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71148", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71149", "assistant": "Dots", "ask": 1, "grade": "small_error"}
+{"id": "p_71149", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71149", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71149", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71149", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71149", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71150", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71150", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71150", "assistant": "Claude Duet", "ask": 1, "grade": "small_error"}
+{"id": "p_71150", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71150", "assistant": "Grok Bot", "ask": 1, "grade": "small_error"}
+{"id": "p_71150", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71206", "assistant": "Ask Maps", "ask": 1, "grade": "wrong"}
+{"id": "p_71209", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71209", "assistant": "Muse", "ask": 1, "grade": "right"}
+{"id": "p_71209", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71209", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71209", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71209", "assistant": "Ask Maps", "ask": 1, "grade": "right"}
+{"id": "p_71212", "assistant": "Dots", "ask": 1, "grade": "right"}
+{"id": "p_71212", "assistant": "Muse", "ask": 1, "grade": "small_error"}
+{"id": "p_71212", "assistant": "Claude Duet", "ask": 1, "grade": "right"}
+{"id": "p_71212", "assistant": "Instinct", "ask": 1, "grade": "right"}
+{"id": "p_71212", "assistant": "Grok Bot", "ask": 1, "grade": "right"}
+{"id": "p_71212", "assistant": "Ask Maps", "ask": 1, "grade": "small_error"}
