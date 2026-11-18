@@ -54,7 +54,7 @@ Dots is first and Ask Maps last either way. The middle four change order, but th
 
 Walking and driving distances and times come from OpenStreetMap routing (OSRM). Public transport comes from the operator's timetable, and from Google Maps transit directions for a door-to-door time. Keys allow a margin around a time or distance, usually about 20% or a few minutes, stated in the key.
 
-Keys were drafted by research agents with web access and checked against their sources. Every key was written twice, independently, and disagreements were settled against the sources. The keys hold for the week the questions name; hours and timetables move after that.
+Research agents with web access drafted every key twice, independently, and disagreements were settled against the sources. The keys hold for the week the questions name; hours and timetables move after that.
 
 ## Closed and moved places
 
