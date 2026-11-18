@@ -2,9 +2,9 @@
 
 How well do AI assistants answer everyday questions about real places? PlaceBench has 150 questions in 121 cities. Most are set on a day and a time, and each has an answer key checked against the place's own sources.
 
-We asked six AI assistants every question. Dots scored 92 out of 100. Ask Maps, the assistant built into Google Maps, answered fastest and came last with 49.
+We asked six AI assistants every question. Their scores range from 49 to 92 out of 100.
 
-Read the [full report](https://voygr.tech/placebench), or [request a test](https://voygr.tech/placebench#test) of your own assistant.
+Read the [write-up on our blog](https://voygr.tech/placebench).
 
 ![PlaceBench: score against answer time](assets/score-vs-time.png)
 
@@ -119,4 +119,4 @@ Every grade is in `data/grades.jsonl`, so you can recompute the scores; METHODOL
 
 Questions, answer keys and sources: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-PlaceBench is made by [VOYGR](https://voygr.tech). We build tools for AI agents to work with local businesses and places. To have your assistant or agent tested, [request a test](https://voygr.tech/placebench#test).
+PlaceBench is made by [VOYGR](https://voygr.tech). We build tools for AI agents to work with local businesses and places. To have your assistant or agent tested on the same questions, [get in touch](https://voygr.tech/#contacts).
